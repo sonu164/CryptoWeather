@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# CryptoWeather
+**CryptoWeather** is a dynamic website created by me that provides real-time cryptocurrency price updates, local weather detection, and live news coverage—all in one place. It offers users a convenient and informative experience by combining financial insights, weather updates, and current events on a single platform.
+>>>>>>> 9f5eb584285a39d863552843a0ed044d72de359a
